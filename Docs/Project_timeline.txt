@@ -1,0 +1,4 @@
+Prepare Schema -> MySQL sample data  →  Fabric Lakehouse setup  →  
+Bronze pipeline    →  Silver pipeline          →  
+Gold pipeline      →  Power BI dashboard       →  
+GitHub + README
