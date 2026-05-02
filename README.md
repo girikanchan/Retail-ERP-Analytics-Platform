@@ -2,6 +2,8 @@
 
 **Tech Stack:** MySQL · Microsoft Fabric · PySpark · Power BI · Data Vault 2.0
 
+<img width="1536" height="1024" alt="DataVault Architecture" src="https://github.com/user-attachments/assets/337e7c18-1fb0-4d61-8e35-257df7dd05f2" />
+
 ---
 
 ## 📌 Overview
